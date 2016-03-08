@@ -1,4 +1,5 @@
 Public Class Output
+  Inherits Textbox
   Dim t as string
   Public text as property
     Get 
