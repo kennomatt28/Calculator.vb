@@ -1,4 +1,6 @@
 Public Class Control
+ Inherits Button
+
  dim text as string
  dim name as string
  public metext as property
